@@ -1,0 +1,4 @@
+# ignore all user (machine-specific) files
+CMakeLists.txt.*
+.DS_Store
+build/
